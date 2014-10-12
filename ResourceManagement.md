@@ -51,7 +51,7 @@
             :
         }
     }
-    ```java
+    ```
 
 1.  FragmentとActivityに依存関係を持たせない
 
