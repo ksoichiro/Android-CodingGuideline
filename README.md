@@ -5,19 +5,19 @@ Androidアプリのコーディングに関するガイドラインです。
 
 ## コンテンツ
 
-1. [基本](Basic.md)
-1. [命名規則](NamingConvention.md)
-1. [コメント](Commenting.md)
-1. [パーミッション](Permissions.md)
-1. [ライフサイクル/リソース管理](ResourceManagement.md)
-1. [XML/リソース(Resources)](UIResources.md)
-1. [OSバージョン互換性/複数OSバージョンへの対応](Compatibility.md)
-1. [非同期処理/スレッド](Concurrency.md)
-1. [コールバック](Callbacks.md)
-1. [セキュリティ](Security.md)
-1. [アップデート](Updates.md)
-1. [パフォーマンス](Performance.md)
-1. [その他](Miscellaneous.md)
+1. [基本](Guidelines/Basic.md)
+1. [命名規則](Guidelines/NamingConvention.md)
+1. [コメント](Guidelines/Commenting.md)
+1. [パーミッション](Guidelines/Permissions.md)
+1. [ライフサイクル/リソース管理](Guidelines/ResourceManagement.md)
+1. [XML/リソース(Resources)](Guidelines/UIResources.md)
+1. [OSバージョン互換性/複数OSバージョンへの対応](Guidelines/Compatibility.md)
+1. [非同期処理/スレッド](Guidelines/Concurrency.md)
+1. [コールバック](Guidelines/Callbacks.md)
+1. [セキュリティ](Guidelines/Security.md)
+1. [アップデート](Guidelines/Updates.md)
+1. [パフォーマンス](Guidelines/Performance.md)
+1. [その他](Guidelines/Miscellaneous.md)
 
 ## 注意
 
