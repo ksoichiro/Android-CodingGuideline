@@ -13,6 +13,7 @@ Androidアプリのコーディングに関するガイドラインです。
 1. [XML/リソース(Resources)](Guidelines/UIResources.md)
 1. [OSバージョン互換性/複数OSバージョンへの対応](Guidelines/Compatibility.md)
 1. [非同期処理/スレッド](Guidelines/Concurrency.md)
+1. [外部アプリとの連携](Guidelines/ExternalApps.md)
 1. [コールバック](Guidelines/Callbacks.md)
 1. [セキュリティ](Guidelines/Security.md)
 1. [アップデート](Guidelines/Updates.md)
